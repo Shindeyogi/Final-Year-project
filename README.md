@@ -7,3 +7,4 @@ The system provides two main functionalities: food ordering and table booking. F
 For table booking, the user can select the desired restaurant, date, time, and number of guests. The system checks the availability of tables in real-time and confirms the reservation. The user is then provided with a confirmation email and SMS with the details of the reservation.
 The system also includes features such as order history, user profile management, and restaurant management tools. These tools allow restaurant owners to manage their menus, update prices, and track orders.
 Overall, Our project aims to provide a user-friendly, efficient, and convenient platform for food ordering and table booking, while also helping restaurants to streamline their operations and increase customer satisfaction
+![image](https://github.com/wallabhulearning/Final-Year-project/assets/81809987/437811e3-a5d8-4790-9399-b79e44c9e58d)
